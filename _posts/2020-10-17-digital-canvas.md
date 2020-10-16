@@ -13,7 +13,7 @@ Every time I speak to my grandmother she tells me that I should write a journal.
 
 ### A record
 
-In the past people used to write with pen and paper and journal things to document them. Nowadays, we put everything online. It's likely that in the future, historians will be scraping the web for their primary sources! So, in the modern day, I think that the cliche "you die twice..." now becomes something like "you die once when you take your last breath, and finally when your stuff is wiped off the internet". This brings me to the second reason for this website: posterity. It's such a waste that so many people have all these amazing ideas and thoughts that just get lost over time, drowned out by noise. But, when your stuff is posted on the web, you can be assured it is _at least_ recoverable (whether or not it is garbage is up to the reader to decide).
+In the past people used to write with pen and paper and journal things to document them. Nowadays, we put everything online. It's likely that in the future, historians will be scraping the web for their primary sources! So, in the modern day, I think that the cliché "you die twice..." now becomes something like "you die once when you take your last breath, and finally when your stuff is wiped off the internet". This brings me to the second reason for this website: posterity. It's such a waste that so many people have all these amazing ideas and thoughts that just get lost over time, drowned out by noise. But, when your stuff is posted on the web, you can be assured it is _at least_ recoverable (whether or not it is garbage is up to the reader to decide).
 
 ### A voice
 
