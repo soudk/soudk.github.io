@@ -7,7 +7,7 @@ title: <a href="#about">About</a> / <a href="#contact">Contact</a>
 
 Hi! I'm Soud, the owner of this site. I'm currently a graduate student at McGill University.
 
-This website is really just a collection of thoughts, and overviews of recurring discussions I've had with my friends, family, and all sorts of other people. I am not a writer, nor am I expert on any of the of the topics I will write about here, so take everything you find on this site with a grain of my favourite salt: GdCl<sub>3</sub>.
+This website is really just a collection of thoughts, and overviews of recurring discussions I've had with my friends, family, and all sorts of other people. I am not a writer, nor am I expert on any of the of the topics I will write about here, so take everything you find on this site with a grain of my favourite salt: <a href="https://www.osti.gov/servlets/purl/915115" target="_blank">GdCl<sub>3</sub></a>.
 
 #### About the site
 I wanted to play around with Github Pages, Markdown-to-HTML, and Jekyll so I based this site off of <a href="https://github.com/LeNPaul/Lagrange" target="_blank">LeNPaul's "Lagrange" theme</a> to start. 
