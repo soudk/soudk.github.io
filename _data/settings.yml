@@ -7,22 +7,24 @@
 google-ID: 'UA-112060364-1'
 
 menu:
-- {name: 'About / Contact', path: 'menu', url: 'about-contact.html'}
+- {name: 'Home', path: '.', url: 'index.html'}
 - {name: 'Writing', path: 'menu', url: 'repository.html'}
+- {name: 'About / Contact', path: 'menu', url: 'about-contact.html'}
+- {name: 'FAQ', path: 'menu', url: 'faq.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'envelope', link: 'mailto:soudkharusi+blog@gmail.com'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/soud-al-kharusi-97a607a6/?challengeId=AQHtaI5Ucz2pGQAAAXUWT0F-AF2RL02aqynRcAIju3Z2kjWK5Wzw_J_ix_7sV8MpSITsxp2UB8JmrXqn0v1BqyeMQmL_zTK_GQ&submissionId=d15085bf-aadb-3c16-d22d-9084513ab702/'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/soud-al-kharusi-97a607a6/'}
 #- {icon: 'rss-square', link: '/feed.xml'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
 # Customize site text
-#pagination:
-#  next_page: 'Newer'
-#  previous_page: 'Older'
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
+#sharing_button_prompt: 'Feel free to share!'
 
 #related_posts: 'You may also enjoy:'
 
