@@ -1,7 +1,7 @@
 ---
 layout: page
-title: <a href="#about">About</a> / <a href="#contact">Contact</a>
 ---
+<h1> <a href="#about">About</a> / <a href="#contact">Contact</a></h1>
 
 <h3 id="about">About me</h3>
 
