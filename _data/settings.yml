@@ -4,7 +4,7 @@
 #  disqus_shortname: 'https-lenpaul-github-io-lagrange'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-1'
+google-ID: ''
 
 menu:
 - {name: 'Home', path: '.', url: 'index.html'}
@@ -15,9 +15,9 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'envelope', link: 'mailto:soudkharusi+blog@gmail.com'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/soud-al-kharusi-97a607a6/'}
-#- {icon: 'rss-square', link: '/feed.xml'}
-# - {icon: 'rss-square', link: '/rss-feed.xml'}
+- {icon: 'mastodon', link: 'https://social.privacytools.io/@soudk'}
+  #- {icon: 'rss-square', link: '/feed.xml'}
+- {icon: 'rss-square', link: '/rss-feed.xml'}
 
 # Customize site text
 pagination:

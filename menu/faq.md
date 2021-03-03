@@ -4,8 +4,9 @@ title: FAQs
 ---
 
 * [Why a blog?](#faq-blog)
-* [Why isn't this on your main site?](#faq-mainsite)
 * [Why'd you share this with me?](#faq-share)
+* [How can I subscribe?](#faq-subscribe)
+* [Why isn't this on your main site?](#faq-mainsite)
 * [Why is this stuff public?](#faq-public)
 * [Why not post anonymously?](#faq-anon)
 
@@ -13,16 +14,24 @@ title: FAQs
 
 I chose to make this site mainly for the freedom of expression. There are no ties to "likes" or "subscribers" just words on a screen. No notifications, no tags, and _especially_ no ads. Nothing but words, hyperlinks, and the occasional image.
  
-HTML is the modern equivalent of a  pen and paper, <a href="/journal/digital-canvas.html">a digital canvas</a>. And it's super awesome how, given enough effort, you can do _whatever_ you want on your own webpage. It's a massive time sink, but really fun to do so I would encourage you all to try it out! Best way to procrastinate in my opinion.
-
-<h3 id="faq-mainsite">Why isn't this on your main site?</h3>
-
-I wanted to (at least partially) separate my professional self from my personal thoughts. Plus, this way I get to try out some new web designs and learn some new tech.  
+HTML is the modern equivalent of a  pen and paper, <a href="/journal/digital-canvas.html">a digital canvas</a>. And it's super awesome how, given enough effort, you can do _whatever_ you want on your own webpage. It's a massive time sink, but really fun to do so I would encourage you all to try it out!
 
 <h3 id="faq-share">Why'd you share this with me?</h3>
 
 Probably because I thought you'd find it fun or interesting, or because we talked about something that I referenced/will reference here. 
 
+<h3 id="faq-subscribe">How can I subscribe?</h3>
+
+Shoot me an email with "Sign Me Up!" in the subject and I'll add you to a mailing list, please use <a href="mailto:soudkharusi+blog@gmail.com">soudkharusi+blog@gmail.com</a>
+
+Alternative methods: 
+* If you're like me and subscribe to RSS feeds, then click the RSS button at the top/bottom of pages. Add the newly openned URL to your RSS reader or news aggregator. New posts will show up there. 
+
+* If you're on <a href="https://www.youtube.com/watch?v=S57uhCQBEk0" target="_blank">the Fediverse </a> then you can follow me on Mastodon <a href="https://social.privacytools.io/@soudk" rel="me" target="_blank">@soudk@social.privacytools.io</a>. If you'd like to join the same Mastodon instance as me, contact me for an invite link :) 
+
+<h3 id="faq-mainsite">Why isn't this on your main site?</h3>
+
+I wanted to (at least partially) separate my professional self from my personal thoughts. Plus, this way I get to try out some new web designs and learn some new tech.  
 
 <h3 id="faq-public">Why is this stuff public?</h3>
 

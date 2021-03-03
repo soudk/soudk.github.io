@@ -17,9 +17,9 @@ I wanted to play around with Github Pages, Markdown-to-HTML, and Jekyll so I bas
 
 Got any feedback, questions, or comments?
 
-Want to start a discussion? Something more?
+Want to start a discussion? Collaborate?
 
-Feel free to email me at:&emsp;<a href="mailto:soudkharusi+blog@gmail.com">soudkharusi+blog@gmail.com</a>
+Shoot me an email at:&emsp;<a href="mailto:soudkharusi+blog@gmail.com">soudkharusi+blog@gmail.com</a>
 
 You can find out more about who I am by going over to my <a href="https://www.physics.mcgill.ca/~soudal" target="_blank">professional/science website</a>.
 

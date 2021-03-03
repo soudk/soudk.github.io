@@ -373,7 +373,7 @@ th, td {
 }
 
 .fa-envelope:hover {
-	color: #f39c12;
+	color: #d8606b;
 }
 
 .fa-twitter {
@@ -387,6 +387,20 @@ th, td {
 
 .fa-twitter:hover {
 	color: #00aced;
+}
+
+
+.fa-mastodon {
+  padding: 5px;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+  	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition: .5s;
+}
+
+.fa-mastodon:hover {
+	color: #609dd8;
 }
 
 .fa-instagram {
@@ -503,5 +517,6 @@ th, td {
 }
 
 .fa-rss-square:hover {
-	color: #ff6600;
+	color: #f39c12;
+	/*color: #ff6600;*/
 }
