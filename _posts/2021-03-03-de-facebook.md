@@ -11,7 +11,16 @@ The time has finally come! I'm taking control of the data I put into this world.
 
 Facebook has time and again proven itself complacent and even actively shady in recent global events (Brexit/Trump and Cambridge Analytica,  Myanmar, Australia... ), and we haven't even gotten to the personal issues many people experience with Facebook (wasted time, mental health, toxicity and fake news ...) FB just has too much power and control over people.  Why? Because we let them! We freely <a href="https://www.facebook.com/off_facebook_activity" target="_blank">give away our data</a>. Even if you aren't posting anything, you've probably liked things, allowed FB at one point or another access to all your contacts, stopped scrolling for an ad, all while actively maintaining a list of people you are connected with. Now, not only is your own data being used to target ads for you, so is everyone of your connections' data, including those connections on Instagram, WhatsApp... more on this later.
 
-## So why does this matter? 
+Feel free to skip ahead to the section that most interests you, or read on at your own pace:
+* [Why de-Facebooking matters](#reasons)
+* [Some common questions](#questions)
+* [Timeline Alternatives and RSS](#timeline-rss)
+* [Social Aspects](#social-aspects): contacts, birthdays, and memories
+* [Decentralized social media](#alt-socials): Mastodon and the Fediverse
+* [Next steps](#next-steps): post-Facebook life 
+* [Goodbye, Daft Punk](#daft-punk) 
+
+<h2 id="reasons"> So why does this matter?</h2> 
 
 Let's focus on ads first: so what if you spend a little more money on things you may not really need, right? The thing is, there's no reason a company like FB should only be serving you ads for consumer devices/services, if an organization wants to sway a populations ideologies and is willing pay for it, then Facebook gives it the green light. They can sway our thinking on particular topics, and swing our network's psyche on mass -- check out <a href="https://en.wikipedia.org/wiki/The_Social_Dilemma" target="_blank">The Social Dilemma (2020) </a>. By using such a dangerous service we are stifling our own self-innovation and personal growth; we are pigeon-holing ourselves. Plus, the only reason we keep using FB is because everyone else is on it! The less people on FB, the less people would feel the *need* to be on FB.
 
@@ -21,7 +30,7 @@ This idea of your data being used to serve you content is true for pretty much a
 
 To be clear, I am not suddenly into digital privacy because I am actively trying to hide something. I am into it because I disagree with giving these big tech companies too much power when they have a track record of abusing it. 
 
-### Questions I've Gotten:
+<h3 id="questions"> Questions I've Gotten:</h3>
 * Why start now?
 
 I figured the earlier the better. The less data they will have on me, and the less I will feel the "sunk cost" excuse creeping up on me. Plus, I've slowly discovered alternatives/workarounds which I will talk about today.
@@ -36,7 +45,7 @@ Well, I don't want to come back unless FB changes their practices. If they do su
 
 Here is a de-Facebooking <a href="https://aaronparecki.com/2020/06/14/14/how-to-leave-facebook" target="_blank">guide</a> I followed, and here is <a href="https://deletefacebook.com/" target="_blank">another one</a> that someone on Mastodon shared with me. 
 
-## Timeline Alternatives - RSS Readers
+<h2 id="timeline-rss"> Timeline Alternatives - RSS Readers</h2>
 One thing that I found hard to replace was getting the news. For example, I followed Omani/Montreal newspapers' pages on Facebook so I would see whenever a new article was posted and keep up to date. I also followed Vox, and watched a lot of their videos on FB. Reddit just doesn't cut it for my local news. 
 
 If this news stuff doesn't apply to you, then I suggest skipping over to the [Social Aspects](#social-aspects) section. 
@@ -69,7 +78,7 @@ The biggest nuisance I found was dealing with FB Messenger, whose data came out 
 ### Birthdays!
 I needed FB to tell me when people' birthdays were, there is no way I can remember them all. I exported all my FB friends' birthdays using the <a href="https://chrome.google.com/webstore/detail/birthday-calendar-extract/imielmggcccenhgncmpjlehemlinhjjo/related?hl=en" target="_blank">Birthday Calendar Extractor for Facebook </a> Chrome extension (I used it on Brave). After extracting to CSV, I cleaned it up by removing 2/3 of people on there. Then, I made a new calendar (I am using Google Calendar temporarily) and imported the CSV data into it, now everyone of my FB friends has an all-day event on my  birthday calendar!
 
-## Alternative Social Networks
+<h2 id="alt-socials"> Alternative Social Networks</h2>
 I really enjoy connecting with people, and consider myself more of an extrovert than not. I wasn't planning on ditching social media altogether, I am just hoping for more control in what data is being collected about my activity and how it is used.
 
 I *almost* moved to Twitter, but then realized I would just be exchanging one evil for a lesser one, and just giving a new company all the power. So instead, I learned about decentralized social networks and <a href="https://www.youtube.com/watch?v=S57uhCQBEk0" target="_blank">the Fediverse</a>, a whole <a href="https://fediverse.party/" target="_blank">web</a> of interconnected social networks. Super cool stuff! 
@@ -101,7 +110,7 @@ You can follow me on Mastodon by clicking on the elephant logo below  ;)
 
 In other news, one of my favourite musical acts of all time disbanded last month. Here is a song from their Alive 2007 tour with quite a fitting title for this post. We'll miss you, Daft Punk.  
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/F6e2rM2-oLY?start=36" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/F6e2rM2-oLY?start=36" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="daft-punk"></iframe>
 
 ---
 
