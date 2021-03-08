@@ -27,7 +27,7 @@ Shoot me an email with "Sign Me Up!" in the subject and I'll add you to a mailin
 Alternative methods: 
 * If you're like me and subscribe to RSS feeds, then click the RSS button at the top/bottom of pages. Add the newly openned URL to your RSS reader or news aggregator. New posts will show up there. 
 
-* If you're on <a href="https://www.youtube.com/watch?v=S57uhCQBEk0" target="_blank">the Fediverse </a> then you can follow me on Mastodon <a href="https://social.privacytools.io/@soudk" rel="me" target="_blank">@soudk@social.privacytools.io</a>. If you'd like to join the same Mastodon instance as me, contact me for an invite link :) 
+* If you're on <a href="https://www.youtube.com/watch?v=S57uhCQBEk0" target="_blank">the Fediverse </a> then you can follow me on Mastodon <a href="https://fosstodon.org/@soudk" rel="me" target="_blank">@soudk@fosstodon.org</a>.  
 
 <h3 id="faq-mainsite">Why isn't this on your main site?</h3>
 
